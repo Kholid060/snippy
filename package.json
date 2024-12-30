@@ -14,7 +14,7 @@
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.6.9",
     "turbo": "^2.3.0",
-    "typescript": "5.5.4"
+    "typescript": "5.7.2"
   },
   "dependencies": {
     "@snippy/ui": "workspace:*"
