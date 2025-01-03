@@ -41,7 +41,7 @@
     "@tauri-apps/plugin-stronghold": "^2.0.0",
     "@tauri-apps/plugin-updater": "^2.3.0",
     "@uiw/codemirror-theme-tokyo-night": "^4.23.6",
-    "@vueuse/core": "^11.0.1",
+    "@vueuse/core": "^12.3.0",
     "@vueuse/motion": "^2.2.6",
     "dayjs": "^1.11.13",
     "drizzle-orm": "^0.36.4",
