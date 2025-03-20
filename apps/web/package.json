@@ -20,7 +20,7 @@
     "@snippy/ui": "workspace:*",
     "better-auth": "^1.0.7",
     "hugeicons-vue": "^0.0.1",
-    "nuxt": "^3.14.1592",
+    "nuxt": "^3.16.1",
     "pinia": "^2.2.6",
     "shadcn-nuxt": "^0.11.3",
     "vue": "latest",
